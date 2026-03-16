@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 100vh;
     margin: 0;
     background-color: rgb(37, 37, 37);
 }
@@ -33,3 +33,7 @@ button{
     color: white;
     cursor: pointer;
 }
+.operador{
+    background-color: aqua;
+}
+
